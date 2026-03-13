@@ -93,7 +93,7 @@ IT technician focused on technical support and help desk roles, with hands-on ex
 
 ### 📄 Resume / CV
 
-[![CV English](https://img.shields.io/badge/CV%20English-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1gqyvXpMzBU584YTu-CiNHgduJocMYyQ7/view?usp=sharing)
-[![CV Español](https://img.shields.io/badge/CV%20Español-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1OFbUB1VN9m969p_8Io63Oe1pq6zjfgqX/view?usp=drive_link)
+[![CV English](https://img.shields.io/badge/CV%20English-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ApzRWvMgryXF21g089sAlD8Jqa7bDhlm/view?usp=sharing)
+[![CV Español](https://img.shields.io/badge/CV%20Español-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1zqL9FNJM5MBJOMCZHTtf8YnjLgTB1Yao/view?usp=sharing)
 
 </div>
