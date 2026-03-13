@@ -12,30 +12,28 @@
 
 ---
 
-## 🇬🇧 English
-
 IT technician focused on technical support and help desk roles, with hands-on experience in Active Directory, Microsoft 365, Intune, and Hyper-V virtualization. CompTIA A+ certified, with a demonstrated ability to troubleshoot, document processes, and work across Windows, Linux, and macOS environments.
 
-### 🔧 Core Skills
+---
 
-<div align="center">
+## 🔧 Skills
 
-![Windows Server](https://img.shields.io/badge/Windows%20Server%202025-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoft365&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure%20Backup-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian%2013-A81D33?style=flat-square&logo=debian&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix%207.0-CC0000?style=flat-square&logo=zabbix&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+| Area | Technologies |
+|------|-------------|
+| **Support & OS** | Windows 10/11, Windows Server 2025, macOS, Debian Linux |
+| **Identity & Directory** | Active Directory, Microsoft Entra ID, Entra Connect, GPO |
+| **Cloud & Microsoft 365** | Exchange Online, Intune, SharePoint, Purview, Azure Backup |
+| **Virtualization** | Hyper-V, VMWare, VirtualBox, Docker |
+| **Networking** | DHCP, DNS, VPN (WireGuard), TCP/IP |
+| **Security** | MFA, Conditional Access, BitLocker |
+| **Monitoring** | Zabbix, Grafana |
+| **Scripting** | PowerShell, Bash, Python |
+| **Tools** | Git, Jira, Notion, Action1 |
+| **Programming** | Python, Go, Java, JavaScript, TypeScript, SQL, React, Next.js |
 
-</div>
+---
 
-### 🏗 Featured Project — Hybrid Active Directory Home Lab
+## 🏗 Featured Project — Hybrid Active Directory Home Lab
 
 > A fully documented enterprise-grade lab built from scratch on a single Windows 10 Home machine, covering on-premises infrastructure, hybrid cloud integration, endpoint management, and monitoring.
 
@@ -51,28 +49,15 @@ IT technician focused on technical support and help desk roles, with hands-on ex
 
 ---
 
-## 🇦🇷 Español
+## 💻 Development Projects
 
-Técnico de IT orientado a soporte técnico y mesa de ayuda, con experiencia práctica en Active Directory, Microsoft 365, Intune y virtualización con Hyper-V. Certificado CompTIA A+, con capacidad demostrada para resolver problemas, documentar procesos y trabajar en entornos Windows, Linux y macOS.
+> Projects built during my software development training. This is a secondary area — my main focus is IT support — but these reflect my ability to work with modern stacks and ship complete products.
 
-### 🔧 Habilidades Principales
-
-| Área | Tecnologías |
-|------|-------------|
-| **Soporte & SO** | Windows 10/11, Windows Server 2025, macOS, Debian Linux |
-| **Identidad & Directorio** | Active Directory, Microsoft Entra ID, Entra Connect, GPO |
-| **Cloud & Microsoft 365** | Exchange Online, Intune, SharePoint, Purview, Azure Backup |
-| **Redes** | DHCP, DNS, VPN (WireGuard), Hyper-V, TCP/IP |
-| **Seguridad** | MFA, Conditional Access, BitLocker, NTLMv2, LDAP/SMB signing |
-| **Monitoreo** | Zabbix 7.0, Grafana, Microsoft Graph API |
-| **Scripting** | PowerShell, Bash, Python |
-| **Herramientas** | Git, Jira, Notion, Docker, Action1 |
-
-### 🏗 Proyecto Destacado — Hybrid Active Directory Home Lab
-
-> Entorno empresarial híbrido completamente documentado, construido desde cero sobre un único equipo con Windows 10 Home, cubriendo infraestructura on-premises, integración con la nube, gestión de endpoints y monitoreo.
-
-📂 **[Ver la documentación completa del lab →](https://github.com/bautistaonorato/homelab)**
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Thinki](https://github.com/BautistaOnorato/thinki-ai)** | Platform to create and customize AI agents for interaction via video calls and chat. Features authentication (BetterAuth), real-time communication (Stream.io), and subscription management (Polar). | Next.js · TypeScript · TailwindCSS · OpenAI · Drizzle ORM · Neon · Inngest · Polar |
+| **[Hay algo ahí](https://github.com/BautistaOnorato/HAA)** | Informational website for the first season of an Argentine streaming show. Built with Astro for fast static content and React for interactive components. | Astro · React · TypeScript · CSS · Figma |
+| **DiceLogger - [Frontend](https://github.com/BautistaOnorato/DiceloggerFront) | [Backend](https://github.com/BautistaOnorato/Dicelogger-back)** | Campaign and character management app for Dungeons & Dragons. Includes friend system, campaign sharing, and subscription-based exclusive content. | Next.js · Go · TypeScript · MySQL · AWS · Stripe · Figma |
 
 ---
 
