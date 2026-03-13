@@ -57,7 +57,7 @@ IT technician focused on technical support and help desk roles, with hands-on ex
 |---------|-------------|-------|
 | **[Thinki](https://github.com/BautistaOnorato/thinki-ai)** | Platform to create and customize AI agents for interaction via video calls and chat. Features authentication (BetterAuth), real-time communication (Stream.io), and subscription management (Polar). | Next.js · TypeScript · TailwindCSS · OpenAI · Drizzle ORM · Neon · Inngest · Polar |
 | **[Hay algo ahí](https://github.com/BautistaOnorato/HAA)** | Informational website for the first season of an Argentine streaming show. Built with Astro for fast static content and React for interactive components. | Astro · React · TypeScript · CSS · Figma |
-| **DiceLogger - [Frontend](https://github.com/BautistaOnorato/DiceloggerFront) | [Backend](https://github.com/BautistaOnorato/Dicelogger-back)** | Campaign and character management app for Dungeons & Dragons. Includes friend system, campaign sharing, and subscription-based exclusive content. | Next.js · Go · TypeScript · MySQL · AWS · Stripe · Figma |
+| **DiceLogger - [Frontend](https://github.com/BautistaOnorato/DiceloggerFront) / [Backend](https://github.com/BautistaOnorato/Dicelogger-back)** | Campaign and character management app for Dungeons & Dragons. Includes friend system, campaign sharing, and subscription-based exclusive content. | Next.js · Go · TypeScript · MySQL · AWS · Stripe · Figma |
 
 ---
 
@@ -65,8 +65,35 @@ IT technician focused on technical support and help desk roles, with hands-on ex
 
 ### 📜 Certifications
 
-[![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](#)
-[![Cambridge B2](https://img.shields.io/badge/Cambridge%20First%20B2-003865?style=for-the-badge&logo=cambridge&logoColor=white)](#)
-[![Certified Tech Developer](https://img.shields.io/badge/Certified%20Tech%20Developer-Digital%20House-FF6B35?style=for-the-badge)](#)
+<a href="https://drive.google.com/file/d/1BMDNG2ZFLnqC53GdIKXrsWf_rYayn8hk/view">
+  <img src="certifications/comptia-aplus/A+.png" width="160" alt="CompTIA A+" /><br/>
+  <strong>CompTIA A+</strong><br/>
+  <sub>View Certificate →</sub>
+</a>
+
+<br/><br/>
+
+<img src="certifications/fce/cambridge.png" width="160" alt="Cambridge First B2" /><br/>
+<strong>Cambridge First B2</strong><br/>
+
+
+<br/><br/>
+
+<a href="certifications/certified-tech-developer.png">
+  <img src="certifications/ctd/ctd.png" width="230" alt="Certified Tech Developer" /><br/>
+  <strong>Digital House - Certified Tech Developer</strong><br/>
+  <sub>View Certificate →</sub>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📄 Resume / CV
+
+[![CV English](https://img.shields.io/badge/CV%20English-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1gqyvXpMzBU584YTu-CiNHgduJocMYyQ7/view?usp=sharing)
+[![CV Español](https://img.shields.io/badge/CV%20Español-34A853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1OFbUB1VN9m969p_8Io63Oe1pq6zjfgqX/view?usp=drive_link)
 
 </div>
