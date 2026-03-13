@@ -4,7 +4,7 @@
 
 **`IT Support & Help Desk | CompTIA A+ | Microsoft 365 & Azure`**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bautista-onorato-940566272/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bautistaonorato/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bautistaonorato@gmail.com)
 [![Location](https://img.shields.io/badge/Buenos%20Aires%2C%20Argentina-4A90D9?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
